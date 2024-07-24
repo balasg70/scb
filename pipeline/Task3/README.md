@@ -57,7 +57,7 @@ DevSecOps is important for the following key reasons: *speed, and security*
 While we're not into the paper-way of doing things, sharing sound advice and good recommendations can make software stronger.  We aim to make these guidelines better through code.
 
 * [Introduction to DevSecOps - DZone Refcard](https://dzone.com/refcardz/introduction-to-devsecops)
-* [A practical guide to build DAST with OWASP Zap](https://github.com/Soluto/owasp-zap-glue-ci-images)
+* [A practical guide to build SAST with OWASP Zap](https://github.com/Soluto/owasp-zap-glue-ci-images)
 * [Introduction to security testing and tools](https://www.omerlh.info/2018/10/04/write-good-code-with-security-tests/)
 * [DevSecOps Hub](https://snyk.io/devsecops/)
 
